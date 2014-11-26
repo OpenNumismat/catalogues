@@ -28,7 +28,6 @@
       "lang": "ru",
       "file": "std-commemorative-ru.db",
       "url": "https://github.com/OpenNumismat/catalogues/releases/download/std-commemorative-ru_2014-11-24/std-commemorative-ru.db"
-      }
     },
     {
       "title": "Памятные монеты СССР",
@@ -36,7 +35,6 @@
       "lang": "ru",
       "file": "std-commemorative-su.db",
       "url": "https://github.com/OpenNumismat/catalogues/releases/download/std-commemorative-su_2014-11-19/std-commemorative-su.db"
-      }
     }
   ]
 }
