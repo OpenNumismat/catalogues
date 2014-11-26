@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "catalogues": [
+    {
+      "title": "Commemorative 2 Euro coins of European Union",
+      "date": "2014-11-21",
+      "lang": "en",
+      "file": "std-commemorative-eu.db",
+      "url": "https://github.com/OpenNumismat/catalogues/releases/download/std-commemorative-eu_2014-11-21/std-commemorative-eu.db"
+    },
+    {
+      "title": "Commemorative US coins",
+      "date": "2014-11-10",
+      "lang": "en",
+      "file": "std-commemorative-us.db",
+      "url": "https://github.com/OpenNumismat/catalogues/releases/download/std-commemorative-us_2014-11-10/std_commemorative_us.db"
+    },
+    {
+      "title": "Base Commemorative US coins",
+      "date": "2014-11-10",
+      "lang": "en",
+      "file": "base-commemorative-us.db",
+      "url": "https://github.com/OpenNumismat/catalogues/releases/download/base-commemorative-us_2014-11-10-1/base_commemorative_us.db"
+    },
+    {
+      "title": "Памятные монеты Российской Федерации",
+      "date": "2014-11-24",
+      "lang": "ru",
+      "file": "std-commemorative-ru.db",
+      "url": "https://github.com/OpenNumismat/catalogues/releases/download/std-commemorative-ru_2014-11-24/std-commemorative-ru.db"
+      }
+    },
+    {
+      "title": "Памятные монеты СССР",
+      "date": "2014-11-19",
+      "lang": "ru",
+      "file": "std-commemorative-su.db",
+      "url": "https://github.com/OpenNumismat/catalogues/releases/download/std-commemorative-su_2014-11-19/std-commemorative-su.db"
+      }
+    }
+  ]
+}
